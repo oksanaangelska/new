@@ -1,0 +1,6 @@
+# Python 3.10
+
+django
+djangorestframework
+python-telegram-bot
+django-dotenv
